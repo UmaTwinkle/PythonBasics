@@ -154,26 +154,9 @@ pow = operator.pow(x, y)
 print("Exponentiation: ", pow)
 
 
-# In[8]:
-
-
-print('num')
-
-
-# In[11]:
 
 
 
-print('num')
-
-
-# In[12]:
-
-
-print('ab')
-
-
-# In[ ]:
 
 
 
